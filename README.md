@@ -15,3 +15,7 @@ To run either of the projects, we have the same steps:
 - activate the virtual environment according to your Operating System
 - install all the requirement libraries needed by running `pip install requirements.txt`
 - run the main.py file with `python -m main`
+
+
+### Note:
+Although this program lacks accuracy in solving problems, it was created for my own personal learning and as an experiment in machine learning. 
