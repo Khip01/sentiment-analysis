@@ -1,0 +1,166 @@
+[
+    {
+        "sentence": "Kualitas produk luar biasa! Saya suka.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Layanan pelanggan yang buruk, sangat kecewa.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Barangnya oke, tidak terlalu buruk.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Pengiriman cepat dan kemasan bagus.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Warnanya berbeda dari gambar.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Puas dengan pembelian, akan beli lagi.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Produk tiba dalam keadaan rusak.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Ini produk rata-rata, tidak ada yang istimewa.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Nilai yang sangat baik untuk uang.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Tidak sebanding dengan harganya.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Aplikasi mudah digunakan dan sangat nyaman.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Pengiriman terlalu lama.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Produk sesuai dengan deskripsi.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Kualitasnya bisa lebih baik.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Sangat senang dengan pembelian ini.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Produk berhenti bekerja setelah seminggu.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Oke, tapi saya pernah melihat yang lebih baik.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Sangat merekomendasikan penjual ini.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Tidak akan membeli dari sini lagi.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Produk baik-baik saja, tapi kemasannya rusak.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Produk ini benar-benar memenuhi harapan saya, kualitasnya sangat bagus dan tahan lama.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Saya sangat kecewa dengan layanan pengiriman yang lambat dan tidak profesional.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Barangnya lumayan, sesuai dengan deskripsi tapi tidak ada yang istimewa.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Pengalaman belanja yang menyenangkan, penjual sangat responsif dan membantu.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Produk yang saya terima berbeda dengan yang ada di gambar, sangat mengecewakan.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Harga produk ini sangat terjangkau dan kualitasnya juga bagus.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Saya tidak akan merekomendasikan produk ini kepada teman-teman saya.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Produk ini cukup baik untuk harga yang ditawarkan, tidak ada keluhan.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Layanan pelanggan sangat ramah dan membantu, saya sangat puas.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Produk ini tidak sesuai dengan deskripsi, sangat mengecewakan.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Pengiriman sangat cepat dan produk dikemas dengan baik.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Produk ini memiliki kualitas yang biasa saja, tidak terlalu bagus.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Saya sangat senang dengan pembelian ini, produk berkualitas tinggi.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Produk ini rusak setelah beberapa kali digunakan, sangat mengecewakan.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Produk ini cukup baik, tapi saya pernah menemukan yang lebih baik.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Penjual sangat profesional dan produk sesuai dengan deskripsi.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Saya tidak akan membeli dari toko ini lagi, sangat mengecewakan.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Produk ini baik-baik saja, tapi kemasannya rusak saat tiba.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Produk ini sangat berguna dan sesuai dengan kebutuhan saya.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Saya sangat kecewa dengan kualitas produk ini, tidak sesuai harapan.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Barang berbahan plastik, mudah patah.",
+        "label": "negatif"
+    }
+]

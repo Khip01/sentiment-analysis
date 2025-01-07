@@ -1,0 +1,58 @@
+[
+    {
+        "sentence": "Kualitas produk luar biasa! Saya suka.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Layanan pelanggan yang buruk, sangat kecewa.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Barangnya oke, tidak terlalu buruk.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Pengiriman cepat dan kemasan bagus.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Warnanya berbeda dari gambar.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Puas dengan pembelian, akan beli lagi.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Produk tiba dalam keadaan rusak.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Ini produk rata-rata, tidak ada yang istimewa.",
+        "label": "netral"
+    },
+    {
+        "sentence": "Nilai yang sangat baik untuk uang.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Tidak sebanding dengan harganya.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Aplikasi mudah digunakan dan sangat nyaman.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Pengiriman terlalu lama.",
+        "label": "negatif"
+    },
+    {
+        "sentence": "Produk sesuai dengan deskripsi.",
+        "label": "positif"
+    },
+    {
+        "sentence": "Tidak akan membeli dari sini lagi.",
+        "label": "negatif"
+    }
+]

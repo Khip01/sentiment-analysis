@@ -1,0 +1,116 @@
+positif:
+sangat
+gampang
+indah
+mudah
+suka
+bahagia
+senang
+luar biasa
+hebat
+puas
+cemerlang
+bersemangat
+menyenangkan
+sukses
+semangat
+pintar
+cerdas
+beruntung
+istimewa
+optimis
+ceria
+damai
+berkilau
+sejahtera
+penuh harapan
+hangat
+penuh kasih
+lembut
+bahagia sekali
+terbaik
+berprestasi
+sempurna
+menginspirasi
+positif
+penuh energi
+mempesona
+terpuji
+loyal
+jujur
+pintar
+terhormat
+bijaksana
+ikhlas
+cemerlang
+bahagia hati
+menakjubkan
+berbakat
+aktif
+terpercaya
+pe
+murah
+rukun
+hangat hati
+adil
+sehat
+penuh cinta
+beruntung
+keren
+
+negatif:
+tidak
+rusak
+bodoh
+sedih
+marah
+kecewa
+buruk
+jelek
+merana
+putus asa
+frustrasi
+galau
+kesal
+mahal
+stres
+kecewa hati
+tidak puas
+tertekan
+murung
+terluka
+pahit
+cemas
+kacau
+terasing
+kesepian
+ketakutan
+kalah
+gagal
+sakit hati
+tertinggal
+tersinggung
+marah besar
+hancur
+patah
+patah hati
+buntu
+penyesalan
+menyakitkan
+kesusahan
+rugi
+memalukan
+depresi
+menyesal
+dendam
+berat hati
+duka
+berat
+sial
+kesulitan
+hampa
+penuh tekanan
+stagnan
+sakit
+tak berdaya
+tak beruntung
