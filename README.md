@@ -10,8 +10,12 @@ Which later from the results of the Naive Bayes model will **produce a probabili
 
 # Instruction 
 To run either of the projects, we have the same steps:
-- go to one of the naive_bayes or rule_based projects
+- go to one of the naive_bayes or rule_based projects with `cd "folder_project_name"`
 - create a virtual environment from python first using `python -m venv .venv`
 - activate the virtual environment according to your Operating System
 - install all the requirement libraries needed by running `pip install requirements.txt`
 - run the main.py file with `python -m main`
+
+
+### Note:
+Although this program lacks accuracy in solving problems, it was created for my own personal learning and as an experiment in machine learning. 
